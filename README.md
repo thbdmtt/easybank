@@ -11,13 +11,13 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot-desktop](./../images/EasyBank-screenshot-desktop.png)
-![screenshot-mobile](./../images/EasyBank-screenshot-mobile.png)
+![screenshot-desktop](images/EasyBank-screenshot-desktop.png)
+![screenshot-mobile](images/EasyBank-screenshot-mobile.png)
 
 ### Links
 
 - Solution URL: (https://github.com/thbdmtt/easybank)
-- Live Site URL: (https://thbdmtt.github.io/easybank/)
+- Live Site URL: (https://thbdmtt.github.io/easybank)
 
 ### Built with
 
@@ -29,6 +29,6 @@ Users should be able to:
 
 ## Author
 
-- GitHub - (https://www.your-site.com)
-- Frontend Mentor - [@thbdmtt]https://www.frontendmentor.io/profile/thbdmtt
+- GitHub - (https://github.com/thbdmtt/)
+- Frontend Mentor - [@thbdmtt](https://www.frontendmentor.io/profile/thbdmtt)
 
